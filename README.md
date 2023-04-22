@@ -1,1 +1,1 @@
-Nos permite crear produtos y categorias, para luego relacionarlas y guardarlas en una BBDD.
+Nos permite crear productos y categorias, para luego relacionarlas y guardarlas en una BBDD.
